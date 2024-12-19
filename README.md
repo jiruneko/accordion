@@ -1,1 +1,1 @@
-# accordion style
+# accordion UI
